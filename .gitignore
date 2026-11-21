@@ -216,6 +216,8 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
+*.pt
+data.txt
 marimo/_lsp/
 __marimo__/
 
