@@ -75,10 +75,10 @@ Initial loss was 8.78 (close to ln 5000 ≈ 8.5, as expected for a random model)
 
 | Metric | Value |
 |---|---|
-| Train loss | 0.221 |
-| Test loss | 0.290 |
-| Train/test gap | 0.070 |
-| Exact match (first 100 test examples, case and whitespace normalized) | 45/100 = 45.0% |
+| Train loss | 0.2025 |
+| Test loss | 0.216 |
+| Train/test gap | 0.094 |
+| Exact match (first 100 test examples, case and whitespace normalized) | 50/100 = 45.0% |
 
 Exact match is measured on only 100 examples, so treat it as a rough estimate.
 
